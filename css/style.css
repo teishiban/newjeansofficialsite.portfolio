@@ -8,7 +8,7 @@
 }
 body {
   background-color: rgb(167, 162, 220);
-  overflow:hidden;
+  overflow-x:hidden;
   
 }
 .header {
